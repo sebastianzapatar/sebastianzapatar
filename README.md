@@ -1,5 +1,8 @@
 ### Hi there 👋
+Professional in System Engineering, Master and PhD in Engineering – Computer Science, with solid knowledge, skills and abilities in the field of software development and computer science, with emphasis on data analysis, modeling and simulation. Extensive experience in research, mentoring, leadership, innovation, formulation, evaluation and implementation of projects with a focus on security of supply in power markets and renewable energies. Knowledge in tools such as: C++, Python, Java, Spring MVC, Oracle, Office, Vensim, Powersim. 🔭😄
 
+- Eagerness and capacity to learn.
+- Concern about professional improvement.
 <!--
 **sebastianzapatar/sebastianzapatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
